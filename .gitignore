@@ -1,0 +1,5 @@
+# Ignore scrapy folder
+avalanche/
+
+# Ignore jupyter-notebook checkpoint
+src/.ipynb_checkpoints
